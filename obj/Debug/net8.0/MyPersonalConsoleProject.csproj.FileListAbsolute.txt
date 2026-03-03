@@ -1,0 +1,14 @@
+C:\Users\ANYTHING\RiderProjects\MyPersonalConsoleProject\obj\Debug\net8.0\MyPersonalConsoleProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANYTHING\RiderProjects\MyPersonalConsoleProject\obj\Debug\net8.0\MyPersonalConsoleProject.AssemblyInfoInputs.cache
+C:\Users\ANYTHING\RiderProjects\MyPersonalConsoleProject\obj\Debug\net8.0\MyPersonalConsoleProject.AssemblyInfo.cs
+C:\Users\ANYTHING\RiderProjects\MyPersonalConsoleProject\obj\Debug\net8.0\MyPersonalConsoleProject.csproj.CoreCompileInputs.cache
+C:\Users\ANYTHING\RiderProjects\MyPersonalConsoleProject\bin\Debug\net8.0\MyPersonalConsoleProject.exe
+C:\Users\ANYTHING\RiderProjects\MyPersonalConsoleProject\bin\Debug\net8.0\MyPersonalConsoleProject.deps.json
+C:\Users\ANYTHING\RiderProjects\MyPersonalConsoleProject\bin\Debug\net8.0\MyPersonalConsoleProject.runtimeconfig.json
+C:\Users\ANYTHING\RiderProjects\MyPersonalConsoleProject\bin\Debug\net8.0\MyPersonalConsoleProject.dll
+C:\Users\ANYTHING\RiderProjects\MyPersonalConsoleProject\bin\Debug\net8.0\MyPersonalConsoleProject.pdb
+C:\Users\ANYTHING\RiderProjects\MyPersonalConsoleProject\obj\Debug\net8.0\MyPersonalConsoleProject.dll
+C:\Users\ANYTHING\RiderProjects\MyPersonalConsoleProject\obj\Debug\net8.0\refint\MyPersonalConsoleProject.dll
+C:\Users\ANYTHING\RiderProjects\MyPersonalConsoleProject\obj\Debug\net8.0\MyPersonalConsoleProject.pdb
+C:\Users\ANYTHING\RiderProjects\MyPersonalConsoleProject\obj\Debug\net8.0\MyPersonalConsoleProject.genruntimeconfig.cache
+C:\Users\ANYTHING\RiderProjects\MyPersonalConsoleProject\obj\Debug\net8.0\ref\MyPersonalConsoleProject.dll
