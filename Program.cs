@@ -1,15 +1,15 @@
-﻿string name = "Maryam Akanbi";
+﻿string productName = "Wireless Mouse";
 
-int age = 45;
+int productId = 101;
 
-double height = 8.9;
+double price = 29.99;
 
-bool isgender = false;
+bool instock = true;
 
 
 
 // String Concatenation
-//Console.WriteLine("My name is " + name + ",I am " + age + "years old. My height is " + height + ". Are you a boy: " + isgender);
+Console.WriteLine("I Want to get " + productName + " the productId is " + productId + " it is " + price + ". Is it in stock:" + instock );
 
 //String Interpolation
-Console.WriteLine($"My name is {name}. I am {age} years old. My height is {height}. Are you a boy: {isgender}");
+Console.WriteLine($"I want to get {productName}, the productId is {productId}, it is {price}. Is it in stock: {instock}");
