@@ -1,15 +1,14 @@
-﻿string productName = "Wireless Mouse";
+﻿int userId = 1;
 
-int productId = 101;
+string fullName = "Tope Abiola";
 
-double price = 29.99;
+double accountBalance = 1500.75;
 
-bool instock = true;
+bool isVerified = true;
 
-
-
-// String Concatenation
-Console.WriteLine("I Want to get " + productName + " the productId is " + productId + " it is " + price + ". Is it in stock:" + instock );
 
 //String Interpolation
-Console.WriteLine($"I want to get {productName}, the productId is {productId}, it is {price}. Is it in stock: {instock}");
+Console.WriteLine($"{fullName} is a client in our organization with a userId {userId}. Has her account balance been verified to be {accountBalance}, {isVerified}");
+
+//String Concatenation
+Console.WriteLine(fullName + " is a client in our organization with the userId " + userId + ". Has her account balance been verified to be" + accountBalance + ":" + isVerified);
